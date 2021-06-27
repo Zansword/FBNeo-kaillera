@@ -1,0 +1,117 @@
+FBNeo For Kaillera
+
+FBNeo For kaillera, 줄여서 FBNeoPPK는 공식 파이널번 네오의 최신버전 1.0.0.3의 소스를 기반으로 하여 카일레라 네트워크 플레이를 목적으로 하여 몇가지 기능을 추가 및 개선한 비공식 버전으로 
+현재 사용되고 있는 카일레라 클라이언트 및 개발되고 있는 오픈-카일레라 클라이언트에서 호환이 가능한 에뮬레이터입니다.
+이는 파이트케이드2나 REDGGPO가 더 이상 서비스를 하지 않을 때를 대비하는 겸, 카일레라를 주로 이용하시는 분들을 위해 제작하였습니다.
+
+기존의 버전 0.2.97. 빌드업에서 대폭 개선된 버전이라 기존의 파이널 번 카일레라에서 이동하였습니다.
+공식버전에서 바꾼 자세한 기능개선은 다음과 같습니다.
+
+1. 네트워크 플레이를 시작할 때, CPU 속도를 설정하는 창을 로드, 값을 설정한 후에 게임이 실행하도록 변경, 네트워크 환경에서 오버클럭 기능을 지원하여 프레임 처리지연 현상을 없애고
+네트워크 플레이를 할 수 있도록 하였습니다.
+
+단, 메탈슬러그 시리즈는 기본적으로 400%의 속도를 지원하도록 하였습니다.
+
+2. 갈림 현상의 방지를 위하여, 카일레라 전용 상태저장파일을 설정할 수 있도록 설정, 네트워크 게임을 실행할 때, 카일레라 폴더에 저장한 상태저장파일을 자동으로 로드할 수 있도록 설정하였습니다.
+   이는 구버전 GGPO 및 파이트케이드2의 방식과 동일합니다. 상태저장 파일은 본 github에서 갱신 및 피드백을 받을 예정입니다.
+ 
+3. 스노우브라더스2의 코드를 수정, 네트워크 플레이시 플레이어3,4의 입력 버그 수정.
+
+4. HBMAME, GOTVG, FC2의 메탈슬러그 시리즈 개조롬을 추가, 차후로도 여유가 되면 추가될 예정입니다.
+
+Metal Slug
+Metal Slug Multifunction
+Metal Slug Unity [Added Timer]
+
+Metal Slug 2
+Metal Slug 2 Multifunction
+Metal Slug 2 Survival Version
+Metal Slug 2 Enemy Remake
+Metal Slug 2 Unity [Added Timer]
+
+Metal Slug 3
+Metal Slug 3 Enemy Reset
+Metal Slug 3 Green Blue
+Metal Slug 3 Multifunction
+Metal Slug 3 Ghost Wu Zouma
+Metal Slug 3X [Hbmame Enemy Reset]
+Metal Slug 3 Unity [Added Timer]
+
+Metal Slug 4
+Metal Slug 4 Enemy Reset
+Metal Slug 4 Multifunction
+Metal Slug 4 Last Bullet Remix
+Metal Slug 4 Unity [Added Timer]
+
+Metal Slug 5
+Metal Slug 5 Multifunction
+Metal Slug 5X
+Metal Slug 5 Enemy Demons
+Metal Slug 5 Unity [Added Timer]
+
+Metal Slug X
+Metal Slug X Supply Version Hack
+Metal Slug X Enemy Remastered
+Metal Slug X Green Blue
+Metal Slug X Extreme Space Zone
+Metal Slug X AzStar soda Remix FC2 Version
+Metal Slug X Unity [Added Timer]
+
+
+Translation in English
+
+FBNeo For Kaillera
+
+FBNeo For kaillera, aka FBNeoPPK is made with FBNeo official build source of 1.0.0.3 latest version for stable kaillera netplay.
+basically works with original FBNeo source's kaillera SDK, and works with Open Kaillera of Kaillerareborn project.
+
+FBNeo's feature details here.
+1. Before Starting Netplay, CPU of speed settings can selectable. when you connect with your partner, select same cpu speed of emulator with your partner, then you will be able to play
+games without frame-slowdown.
+
+but, metal slug series of neogeo is default 400% speed at kaillera.
+
+2. To prevent Desync, If savestates file exist at kaillera folder, FBNeoPPK will load savestates automatic at the start netplay.
+this will same works with FC2, old GGPO.
+
+3. fixed input netplay problem of 3&4 players at Snow brothers 2.
+
+4. Added Metal Slug series modified Roms at HBMAME, GOTVG, FC2.
+
+Metal Slug
+Metal Slug Multifunction
+Metal Slug Unity [Added Timer]
+
+Metal Slug 2
+Metal Slug 2 Multifunction
+Metal Slug 2 Survival Version
+Metal Slug 2 Enemy Remake
+Metal Slug 2 Unity [Added Timer]
+
+Metal Slug 3
+Metal Slug 3 Enemy Reset
+Metal Slug 3 Green Blue
+Metal Slug 3 Multifunction
+Metal Slug 3 Ghost Wu Zouma
+Metal Slug 3X [Hbmame Enemy Reset]
+Metal Slug 3 Unity [Added Timer]
+
+Metal Slug 4
+Metal Slug 4 Enemy Reset
+Metal Slug 4 Multifunction
+Metal Slug 4 Last Bullet Remix
+Metal Slug 4 Unity [Added Timer]
+
+Metal Slug 5
+Metal Slug 5 Multifunction
+Metal Slug 5X
+Metal Slug 5 Enemy Demons
+Metal Slug 5 Unity [Added Timer]
+
+Metal Slug X
+Metal Slug X Supply Version Hack
+Metal Slug X Enemy Remastered
+Metal Slug X Green Blue
+Metal Slug X Extreme Space Zone
+Metal Slug X AzStar soda Remix FC2 Version
+Metal Slug X Unity [Added Timer]
