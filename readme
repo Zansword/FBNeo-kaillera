@@ -19,6 +19,8 @@ FBNeo For kaillera, 줄여서 FBNeoPPK는 공식 파이널번 네오의 최신�
 
 4. HBMAME, GOTVG, FC2의 메탈슬러그 시리즈 개조롬을 추가, 차후로도 여유가 되면 추가될 예정입니다.
 
+5. 기본적인 롬셋은 파이트케이드2와 동일합니다. 다만, 일부 메탈슬러그 개조롬의 경우, hbmame를 기준으로 추가하였습니다.
+
 Metal Slug
 Metal Slug Multifunction
 Metal Slug Unity [Added Timer]
@@ -77,6 +79,8 @@ this will same works with FC2, old GGPO.
 3. fixed input netplay problem of 3&4 players at Snow brothers 2.
 
 4. Added Metal Slug series modified Roms at HBMAME, GOTVG, FC2.
+
+5. Default Romset is same with official FBNeo or fightcade2, but several Metal Slug modified roms are based at HBmame.
 
 Metal Slug
 Metal Slug Multifunction
